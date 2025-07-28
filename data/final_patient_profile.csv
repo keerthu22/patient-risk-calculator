@@ -1,0 +1,501 @@
+MemberID,NumClaims,UniqueDiseases,AvgCriticality,MaxCriticality,ChronicCount,RiskScore,PreventiveCareAdvice
+2032,2,1,5.0,5,2,4,Comfort-focused care and emotional support
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2034,5,3,2.8,5,2,4,"Comfort-focused care and emotional support; Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2018,2,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2075,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2295,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2321,1,1,5.0,5,1,4,"Quit smoking, screening for early detection"
+2105,2,2,2.5,3,0,2,"Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2215,5,3,4.0,4,5,5,"Memory exercises, caregiver support; Limit protein/sodium, regular blood/urine tests; Weight management, avoid sugar, regular A1C tests"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2087,2,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping"
+2313,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2024,4,2,3.5,5,2,4,"Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2398,2,2,4.5,5,2,4,"Mammograms, regular check-ups, self-exams; Limit protein/sodium, regular blood/urine tests"
+2204,4,3,4.25,5,3,5,"Therapy, medication, regular mental health checks; Avoid smoking, pulmonary rehab, flu vaccination; Colonoscopy, high-fiber diet, routine screening"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2076,2,2,3.0,5,1,4,Comfort-focused care and emotional support; Routine health screening and lifestyle advice
+2221,3,3,4.333333333333333,5,3,5,"Limit protein/sodium, regular blood/urine tests; Vaccination, hygiene, timely antibiotics; Mammograms, regular check-ups, self-exams"
+2379,4,3,4.75,5,4,5,"Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening; Memory exercises, caregiver support"
+2282,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2181,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2251,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2166,4,3,4.25,5,4,5,"Monitor glucose, exercise, low-carb diet; Psychiatric care, medication adherence; Low sodium diet, daily weight check, medications"
+2008,4,1,5.0,5,4,5,Comfort-focused care and emotional support
+2067,5,2,1.8,5,1,3,Routine health screening and lifestyle advice; Comfort-focused care and emotional support
+2063,5,2,1.4,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2250,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2254,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2294,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2202,3,3,5.0,5,3,5,"Quit smoking, screening for early detection; Low sodium diet, daily weight check, medications; Colonoscopy, high-fiber diet, routine screening"
+2118,2,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2050,3,2,3.6666666666666665,5,2,4,Comfort-focused care and emotional support; Routine health screening and lifestyle advice
+2170,4,4,4.5,5,4,5,"Colonoscopy, high-fiber diet, routine screening; Low sodium diet, daily weight check, medications; Monitor glucose, exercise, low-carb diet; Vaccination, hygiene, timely antibiotics"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2155,3,3,2.3333333333333335,3,0,3,"Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2386,2,2,5.0,5,2,4,"Colonoscopy, high-fiber diet, routine screening; Cardiologist visit, ECG, physical activity"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2243,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2040,1,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2001,5,3,3.6,5,3,5,"Hydration, sleep, limit screen time; Comfort-focused care and emotional support; Routine health screening and lifestyle advice"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2153,3,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2115,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2230,5,5,4.0,5,4,5,"Low sodium diet, daily weight check, medications; Limit protein/sodium, regular blood/urine tests; Therapy, medication, regular mental health checks; Weight management, avoid sugar, regular A1C tests; Psychiatric care, medication adherence"
+2104,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2153,3,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2146,5,3,2.2,3,0,3,"Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2223,4,3,4.5,5,4,5,"Vaccination, hygiene, timely antibiotics; Regular insulin monitoring and diet control; Low sodium diet, daily weight check, medications"
+2124,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress"
+2021,2,2,3.5,5,1,4,"Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2231,3,3,4.333333333333333,5,3,5,"Monitor glucose, exercise, low-carb diet; Weight management, avoid sugar, regular A1C tests; Low sodium diet, daily weight check, medications"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2274,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2123,3,3,2.3333333333333335,3,0,3,"Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting; Avoid spicy food, small meals, raise head while sleeping"
+2296,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2315,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2247,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2372,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2260,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2272,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2356,2,2,5.0,5,2,4,"Quit smoking, screening for early detection; Cardiologist visit, ECG, physical activity"
+2350,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2323,4,2,4.5,5,4,5,"Limit protein/sodium, regular blood/urine tests; Cardiologist visit, ECG, physical activity"
+2377,4,4,4.75,5,4,5,"Cardiologist visit, ECG, physical activity; Memory exercises, caregiver support; Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening"
+2114,1,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2237,5,4,4.4,5,4,5,"Use inhalers regularly, avoid triggers, annual checkups; Cardiologist visit, ECG, physical activity; Quit smoking, screening for early detection; Limit protein/sodium, regular blood/urine tests"
+2103,1,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2020,4,3,2.25,5,1,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2108,2,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2182,5,4,4.0,5,4,5,"Therapy, medication, regular mental health checks; Regular insulin monitoring and diet control; Vaccination, hygiene, timely antibiotics; Mammograms, regular check-ups, self-exams"
+2246,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2117,4,3,2.25,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress"
+2354,2,2,4.5,5,2,4,"Mammograms, regular check-ups, self-exams; Memory exercises, caregiver support"
+2367,5,4,4.6,5,5,5,"Quit smoking, screening for early detection; Colonoscopy, high-fiber diet, routine screening; Memory exercises, caregiver support; Low sodium diet, daily weight check, medications"
+2395,1,1,5.0,5,1,4,"Quit smoking, screening for early detection"
+2396,2,2,4.5,5,2,4,"Mammograms, regular check-ups, self-exams; Memory exercises, caregiver support"
+2298,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2069,3,2,3.0,5,1,4,"Hydration, sleep, limit screen time; Comfort-focused care and emotional support"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2381,3,2,4.666666666666667,5,3,5,"Memory exercises, caregiver support; Quit smoking, screening for early detection"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2082,5,3,2.4,3,0,3,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2206,4,4,4.75,5,4,5,"Mammograms, regular check-ups, self-exams; Quit smoking, screening for early detection; Weight management, avoid sugar, regular A1C tests; Cardiologist visit, ECG, physical activity"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2388,1,1,5.0,5,1,4,"Colonoscopy, high-fiber diet, routine screening"
+2205,2,2,4.0,5,1,4,"Mammograms, regular check-ups, self-exams; Anti-inflammatory drugs, avoid trigger foods"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2165,3,3,4.0,5,2,4,"Use inhalers regularly, avoid triggers, annual checkups; Regular insulin monitoring and diet control; Low sodium diet, daily weight check, medications"
+2373,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2174,3,3,3.6666666666666665,5,1,4,"Anti-inflammatory drugs, avoid trigger foods; Colonoscopy, high-fiber diet, routine screening; Use inhalers regularly, avoid triggers, annual checkups"
+2122,2,2,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress"
+2075,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2171,5,4,4.2,5,5,5,"Avoid smoking, pulmonary rehab, flu vaccination; Vaccination, hygiene, timely antibiotics; Regular insulin monitoring and diet control; Cardiologist visit, ECG, physical activity"
+2353,2,2,5.0,5,2,4,"Quit smoking, screening for early detection; Low sodium diet, daily weight check, medications"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2173,3,3,4.666666666666667,5,3,5,"Monitor glucose, exercise, low-carb diet; Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection"
+2181,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2191,1,1,4.0,4,1,3,Regular insulin monitoring and diet control
+2350,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2075,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2228,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2135,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2036,2,1,5.0,5,2,4,Comfort-focused care and emotional support
+2099,2,2,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress"
+2273,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2273,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2384,3,2,5.0,5,3,5,"Mammograms, regular check-ups, self-exams; Cardiologist visit, ECG, physical activity"
+2131,5,3,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress"
+2063,5,2,1.4,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2003,5,3,2.2,5,1,4,"Comfort-focused care and emotional support; Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2101,2,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2056,4,1,5.0,5,4,5,Comfort-focused care and emotional support
+2124,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress"
+2068,4,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2026,2,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2287,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2067,5,2,1.8,5,1,3,Routine health screening and lifestyle advice; Comfort-focused care and emotional support
+2290,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2082,5,3,2.4,3,0,3,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2146,5,3,2.2,3,0,3,"Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2124,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress"
+2260,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2207,4,3,4.0,4,4,5,"Regular insulin monitoring and diet control; Limit protein/sodium, regular blood/urine tests; Memory exercises, caregiver support"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2135,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2360,4,3,5.0,5,4,5,"Mammograms, regular check-ups, self-exams; Cardiologist visit, ECG, physical activity; Colonoscopy, high-fiber diet, routine screening"
+2261,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2262,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2337,3,2,5.0,5,3,5,"Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2118,2,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping"
+2302,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2278,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2214,3,3,4.333333333333333,5,3,5,"Colonoscopy, high-fiber diet, routine screening; Weight management, avoid sugar, regular A1C tests; Avoid smoking, pulmonary rehab, flu vaccination"
+2344,5,3,4.6,5,5,5,"Quit smoking, screening for early detection; Colonoscopy, high-fiber diet, routine screening; Limit protein/sodium, regular blood/urine tests"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2234,3,3,4.333333333333333,5,2,5,"Cardiologist visit, ECG, physical activity; Low sodium diet, daily weight check, medications; Anti-inflammatory drugs, avoid trigger foods"
+2013,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2028,5,2,1.2,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2210,5,4,4.4,5,5,5,"Memory exercises, caregiver support; Regular insulin monitoring and diet control; Weight management, avoid sugar, regular A1C tests; Colonoscopy, high-fiber diet, routine screening"
+2094,2,2,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress"
+2010,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2084,1,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2009,5,2,3.2,5,2,4,"Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2140,4,2,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting; Balanced diet, sleep, manage stress"
+2042,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2343,3,1,4.0,4,3,4,"Memory exercises, caregiver support"
+2389,2,2,4.0,4,2,4,"Limit protein/sodium, regular blood/urine tests; Memory exercises, caregiver support"
+2037,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2169,4,4,4.0,5,3,5,"Use inhalers regularly, avoid triggers, annual checkups; Vaccination, hygiene, timely antibiotics; Psychiatric care, medication adherence; Mammograms, regular check-ups, self-exams"
+2002,4,2,2.0,5,1,3,Comfort-focused care and emotional support; Routine health screening and lifestyle advice
+2309,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2018,2,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2016,4,3,3.25,5,2,4,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice; Comfort-focused care and emotional support"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2208,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2112,2,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping"
+2364,5,3,5.0,5,5,5,"Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection; Cardiologist visit, ECG, physical activity"
+2161,4,4,3.5,4,2,4,"Monitor glucose, exercise, low-carb diet; Vaccination, hygiene, timely antibiotics; Anti-inflammatory drugs, avoid trigger foods; Therapy, medication, regular mental health checks"
+2235,5,5,4.4,5,4,5,"Cardiologist visit, ECG, physical activity; Colonoscopy, high-fiber diet, routine screening; Use inhalers regularly, avoid triggers, annual checkups; Vaccination, hygiene, timely antibiotics; Mammograms, regular check-ups, self-exams"
+2241,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2077,3,2,1.3333333333333333,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2270,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2118,2,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2096,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2265,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2180,4,3,3.75,4,3,5,"Vaccination, hygiene, timely antibiotics; Therapy, medication, regular mental health checks; Weight management, avoid sugar, regular A1C tests"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2255,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2159,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2107,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2095,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2301,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2329,4,3,5.0,5,4,5,"Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection; Mammograms, regular check-ups, self-exams"
+2163,3,3,4.0,5,2,4,"Psychiatric care, medication adherence; Colonoscopy, high-fiber diet, routine screening; Therapy, medication, regular mental health checks"
+2067,5,2,1.8,5,1,3,Routine health screening and lifestyle advice; Comfort-focused care and emotional support
+2198,1,1,3.0,3,0,2,"Therapy, medication, regular mental health checks"
+2305,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2002,4,2,2.0,5,1,3,Comfort-focused care and emotional support; Routine health screening and lifestyle advice
+2372,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2212,3,3,3.6666666666666665,4,2,4,"Monitor glucose, exercise, low-carb diet; Use inhalers regularly, avoid triggers, annual checkups; Memory exercises, caregiver support"
+2264,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2255,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2399,2,2,4.5,5,2,4,"Limit protein/sodium, regular blood/urine tests; Mammograms, regular check-ups, self-exams"
+2211,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2213,2,1,5.0,5,2,4,"Cardiologist visit, ECG, physical activity"
+2098,5,3,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2157,3,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2102,3,2,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Stretching, physiotherapy, avoid heavy lifting"
+2284,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2097,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting"
+2306,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2092,3,3,2.3333333333333335,3,0,3,"Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2010,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2167,4,4,4.5,5,4,5,"Vaccination, hygiene, timely antibiotics; Limit protein/sodium, regular blood/urine tests; Low sodium diet, daily weight check, medications; Cardiologist visit, ECG, physical activity"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2074,3,3,2.6666666666666665,5,1,4,"Hydration, sleep, limit screen time; Comfort-focused care and emotional support; Routine health screening and lifestyle advice"
+2019,5,3,2.0,5,1,4,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time; Comfort-focused care and emotional support"
+2266,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2119,2,2,2.5,3,0,2,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2040,1,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2104,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2225,3,3,3.6666666666666665,4,2,4,"Avoid smoking, pulmonary rehab, flu vaccination; Therapy, medication, regular mental health checks; Regular insulin monitoring and diet control"
+2005,5,2,1.6,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2297,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2351,2,2,5.0,5,2,4,"Cardiologist visit, ECG, physical activity; Mammograms, regular check-ups, self-exams"
+2136,1,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2312,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2057,1,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2347,3,2,5.0,5,3,5,"Low sodium diet, daily weight check, medications; Mammograms, regular check-ups, self-exams"
+2376,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2268,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2045,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2255,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2292,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2010,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2172,3,3,3.6666666666666665,4,2,4,"Therapy, medication, regular mental health checks; Monitor glucose, exercise, low-carb diet; Memory exercises, caregiver support"
+2135,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2218,5,4,4.2,5,4,5,"Mammograms, regular check-ups, self-exams; Therapy, medication, regular mental health checks; Psychiatric care, medication adherence; Memory exercises, caregiver support"
+2120,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting"
+2134,5,2,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting; Avoid spicy food, small meals, raise head while sleeping"
+2328,1,1,5.0,5,1,4,"Mammograms, regular check-ups, self-exams"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2057,1,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2098,5,3,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2334,3,2,4.333333333333333,5,3,5,"Limit protein/sodium, regular blood/urine tests; Quit smoking, screening for early detection"
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2358,5,2,5.0,5,5,5,"Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening"
+2113,4,3,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Stretching, physiotherapy, avoid heavy lifting; Balanced diet, sleep, manage stress"
+2042,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2362,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2181,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2219,1,1,5.0,5,1,4,"Mammograms, regular check-ups, self-exams"
+2081,5,2,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2059,4,3,3.25,5,2,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2335,1,1,5.0,5,1,4,"Cardiologist visit, ECG, physical activity"
+2197,2,2,4.0,5,1,4,"Low sodium diet, daily weight check, medications; Therapy, medication, regular mental health checks"
+2222,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2135,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2039,3,3,2.6666666666666665,5,1,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2363,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2320,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2349,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2111,3,2,2.3333333333333335,3,0,2,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2307,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2164,2,2,3.5,4,1,3,"Therapy, medication, regular mental health checks; Weight management, avoid sugar, regular A1C tests"
+2336,4,3,4.5,5,4,5,"Limit protein/sodium, regular blood/urine tests; Cardiologist visit, ECG, physical activity; Memory exercises, caregiver support"
+2259,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2145,3,2,2.6666666666666665,3,0,3,"Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting"
+2012,1,1,5.0,5,1,4,Comfort-focused care and emotional support
+2238,2,2,3.5,4,1,3,"Vaccination, hygiene, timely antibiotics; Use inhalers regularly, avoid triggers, annual checkups"
+2291,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2184,2,2,4.5,5,2,4,"Avoid smoking, pulmonary rehab, flu vaccination; Cardiologist visit, ECG, physical activity"
+2090,1,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2063,5,2,1.4,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2330,1,1,5.0,5,1,4,"Low sodium diet, daily weight check, medications"
+2327,5,4,4.8,5,5,5,"Limit protein/sodium, regular blood/urine tests; Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection"
+2280,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2326,4,3,5.0,5,4,5,"Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening; Cardiologist visit, ECG, physical activity"
+2394,4,4,4.75,5,4,5,"Low sodium diet, daily weight check, medications; Cardiologist visit, ECG, physical activity; Limit protein/sodium, regular blood/urine tests; Mammograms, regular check-ups, self-exams"
+2131,5,3,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress"
+2058,5,3,2.8,5,2,4,"Comfort-focused care and emotional support; Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2095,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2037,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2156,2,2,2.5,3,0,2,"Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2168,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2092,3,3,2.3333333333333335,3,0,3,"Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2139,4,3,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2133,2,1,3.0,3,0,2,"Reduce salt, regular BP check, avoid stress"
+2054,1,1,5.0,5,1,4,Comfort-focused care and emotional support
+2363,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2267,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2345,2,2,4.5,5,2,4,"Quit smoking, screening for early detection; Memory exercises, caregiver support"
+2137,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2152,3,3,2.3333333333333335,3,0,3,"Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting; Avoid spicy food, small meals, raise head while sleeping"
+2196,5,5,4.0,5,4,5,"Regular insulin monitoring and diet control; Vaccination, hygiene, timely antibiotics; Therapy, medication, regular mental health checks; Memory exercises, caregiver support; Quit smoking, screening for early detection"
+2079,4,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2017,2,1,5.0,5,2,4,Comfort-focused care and emotional support
+2185,2,2,4.5,5,2,4,"Avoid smoking, pulmonary rehab, flu vaccination; Mammograms, regular check-ups, self-exams"
+2139,4,3,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2162,4,4,4.5,5,4,5,"Cardiologist visit, ECG, physical activity; Weight management, avoid sugar, regular A1C tests; Mammograms, regular check-ups, self-exams; Limit protein/sodium, regular blood/urine tests"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2194,4,4,4.25,5,4,5,"Low sodium diet, daily weight check, medications; Monitor glucose, exercise, low-carb diet; Weight management, avoid sugar, regular A1C tests; Memory exercises, caregiver support"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2085,5,4,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2350,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2138,4,2,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting; Avoid spicy food, small meals, raise head while sleeping"
+2200,3,3,3.6666666666666665,4,2,4,"Therapy, medication, regular mental health checks; Memory exercises, caregiver support; Regular insulin monitoring and diet control"
+2018,2,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2156,2,2,2.5,3,0,2,"Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
+2135,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2220,2,2,4.5,5,2,4,"Vaccination, hygiene, timely antibiotics; Low sodium diet, daily weight check, medications"
+2311,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2350,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2287,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2281,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2014,5,3,2.8,5,2,4,"Comfort-focused care and emotional support; Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2088,4,2,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting; Balanced diet, sleep, manage stress"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2258,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2346,4,3,4.5,5,4,5,"Cardiologist visit, ECG, physical activity; Mammograms, regular check-ups, self-exams; Memory exercises, caregiver support"
+2144,4,3,2.25,3,0,3,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress"
+2164,2,2,3.5,4,1,3,"Therapy, medication, regular mental health checks; Weight management, avoid sugar, regular A1C tests"
+2289,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2359,5,4,4.8,5,5,5,"Mammograms, regular check-ups, self-exams; Low sodium diet, daily weight check, medications; Cardiologist visit, ECG, physical activity; Memory exercises, caregiver support"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2127,5,4,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress"
+2177,5,4,4.4,5,5,5,"Cardiologist visit, ECG, physical activity; Limit protein/sodium, regular blood/urine tests; Weight management, avoid sugar, regular A1C tests; Mammograms, regular check-ups, self-exams"
+2116,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2363,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2190,4,3,4.25,5,3,5,"Mammograms, regular check-ups, self-exams; Weight management, avoid sugar, regular A1C tests; Use inhalers regularly, avoid triggers, annual checkups"
+2350,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2137,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2363,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2164,2,2,3.5,4,1,3,"Therapy, medication, regular mental health checks; Weight management, avoid sugar, regular A1C tests"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2149,5,4,2.2,3,0,3,"Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping; Stretching, physiotherapy, avoid heavy lifting; Balanced diet, sleep, manage stress"
+2269,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2286,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2229,4,4,4.5,5,4,5,"Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening; Monitor glucose, exercise, low-carb diet; Limit protein/sodium, regular blood/urine tests"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2176,5,4,4.2,5,4,5,"Cardiologist visit, ECG, physical activity; Psychiatric care, medication adherence; Vaccination, hygiene, timely antibiotics; Use inhalers regularly, avoid triggers, annual checkups"
+2081,5,2,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2123,3,3,2.3333333333333335,3,0,3,"Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting; Avoid spicy food, small meals, raise head while sleeping"
+2168,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2068,4,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2308,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2157,3,2,2.0,2,0,2,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2115,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2137,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2325,5,4,4.4,5,5,5,"Memory exercises, caregiver support; Mammograms, regular check-ups, self-exams; Low sodium diet, daily weight check, medications; Limit protein/sodium, regular blood/urine tests"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2253,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2248,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2216,2,2,4.0,4,2,4,"Avoid smoking, pulmonary rehab, flu vaccination; Limit protein/sodium, regular blood/urine tests"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2010,2,2,1.5,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2031,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2277,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2224,4,3,4.25,5,3,5,"Low sodium diet, daily weight check, medications; Avoid smoking, pulmonary rehab, flu vaccination; Use inhalers regularly, avoid triggers, annual checkups"
+2232,4,3,4.0,4,4,5,"Weight management, avoid sugar, regular A1C tests; Avoid smoking, pulmonary rehab, flu vaccination; Limit protein/sodium, regular blood/urine tests"
+2341,1,1,4.0,4,1,3,"Limit protein/sodium, regular blood/urine tests"
+2097,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting"
+2314,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2383,5,4,4.6,5,5,5,"Colonoscopy, high-fiber diet, routine screening; Memory exercises, caregiver support; Low sodium diet, daily weight check, medications; Quit smoking, screening for early detection"
+2029,5,3,2.0,5,1,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2082,5,3,2.4,3,0,3,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2287,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2373,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2181,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2183,5,4,4.4,5,5,5,"Cardiologist visit, ECG, physical activity; Mammograms, regular check-ups, self-exams; Limit protein/sodium, regular blood/urine tests; Vaccination, hygiene, timely antibiotics"
+2089,5,3,2.2,3,0,3,"Balanced diet, sleep, manage stress; Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2319,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2378,5,5,4.8,5,5,5,"Cardiologist visit, ECG, physical activity; Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection; Memory exercises, caregiver support; Mammograms, regular check-ups, self-exams"
+2062,5,3,2.4,5,1,4,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice; Comfort-focused care and emotional support"
+2380,1,1,5.0,5,1,4,"Quit smoking, screening for early detection"
+2222,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2124,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress; Reduce salt, regular BP check, avoid stress"
+2138,4,2,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting; Avoid spicy food, small meals, raise head while sleeping"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2144,4,3,2.25,3,0,3,"Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress"
+2038,4,2,4.0,5,3,5,Comfort-focused care and emotional support; Routine health screening and lifestyle advice
+2096,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2055,4,3,2.25,5,1,4,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time; Comfort-focused care and emotional support"
+2363,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2179,1,1,3.0,3,0,2,"Use inhalers regularly, avoid triggers, annual checkups"
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2271,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2236,4,3,4.5,5,4,5,"Cardiologist visit, ECG, physical activity; Avoid smoking, pulmonary rehab, flu vaccination; Mammograms, regular check-ups, self-exams"
+2348,4,4,4.5,5,4,5,"Colonoscopy, high-fiber diet, routine screening; Memory exercises, caregiver support; Low sodium diet, daily weight check, medications; Limit protein/sodium, regular blood/urine tests"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2368,4,4,5.0,5,4,5,"Low sodium diet, daily weight check, medications; Quit smoking, screening for early detection; Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening"
+2022,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2081,5,2,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2363,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2193,4,3,4.0,4,4,5,"Limit protein/sodium, regular blood/urine tests; Monitor glucose, exercise, low-carb diet; Avoid smoking, pulmonary rehab, flu vaccination"
+2178,2,2,4.5,5,2,4,"Colonoscopy, high-fiber diet, routine screening; Regular insulin monitoring and diet control"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2047,5,2,2.6,5,1,4,"Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2392,4,2,4.25,5,4,5,"Low sodium diet, daily weight check, medications; Memory exercises, caregiver support"
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2393,2,2,5.0,5,2,4,"Quit smoking, screening for early detection; Cardiologist visit, ECG, physical activity"
+2217,2,2,3.5,4,1,3,"Memory exercises, caregiver support; Anti-inflammatory drugs, avoid trigger foods"
+2067,5,2,1.8,5,1,3,Routine health screening and lifestyle advice; Comfort-focused care and emotional support
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2318,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2053,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2239,2,2,4.0,5,1,4,"Quit smoking, screening for early detection; Use inhalers regularly, avoid triggers, annual checkups"
+2376,1,1,4.0,4,1,3,"Memory exercises, caregiver support"
+2137,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2189,2,2,4.0,5,1,4,"Low sodium diet, daily weight check, medications; Use inhalers regularly, avoid triggers, annual checkups"
+2293,5,1,4.0,4,5,5,"Vaccination, hygiene, timely antibiotics"
+2013,2,2,1.5,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2252,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2385,5,3,4.6,5,5,5,"Memory exercises, caregiver support; Low sodium diet, daily weight check, medications; Colonoscopy, high-fiber diet, routine screening"
+2279,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2238,2,2,3.5,4,1,3,"Vaccination, hygiene, timely antibiotics; Use inhalers regularly, avoid triggers, annual checkups"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2072,3,3,2.6666666666666665,5,1,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2201,3,3,4.333333333333333,5,3,5,"Avoid smoking, pulmonary rehab, flu vaccination; Colonoscopy, high-fiber diet, routine screening; Psychiatric care, medication adherence"
+2079,4,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2300,4,1,4.0,4,4,5,"Vaccination, hygiene, timely antibiotics"
+2096,1,1,2.0,2,0,2,"Stretching, physiotherapy, avoid heavy lifting"
+2370,5,3,4.8,5,5,5,"Colonoscopy, high-fiber diet, routine screening; Limit protein/sodium, regular blood/urine tests; Quit smoking, screening for early detection"
+2044,4,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2063,5,2,1.4,2,0,2,"Hydration, sleep, limit screen time; Routine health screening and lifestyle advice"
+2027,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2015,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2242,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2127,5,4,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress"
+2289,1,1,4.0,4,1,3,"Vaccination, hygiene, timely antibiotics"
+2033,2,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2011,5,3,2.2,5,1,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2365,5,4,4.8,5,5,5,"Quit smoking, screening for early detection; Cardiologist visit, ECG, physical activity; Limit protein/sodium, regular blood/urine tests; Low sodium diet, daily weight check, medications"
+2119,2,2,2.5,3,0,2,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2097,3,3,2.3333333333333335,3,0,3,"Avoid spicy food, small meals, raise head while sleeping; Reduce salt, regular BP check, avoid stress; Stretching, physiotherapy, avoid heavy lifting"
+2051,5,3,3.6,5,3,5,"Comfort-focused care and emotional support; Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2094,2,2,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping; Balanced diet, sleep, manage stress"
+2186,3,3,4.0,5,2,4,"Therapy, medication, regular mental health checks; Colonoscopy, high-fiber diet, routine screening; Limit protein/sodium, regular blood/urine tests"
+2195,2,2,3.5,4,1,3,"Memory exercises, caregiver support; Use inhalers regularly, avoid triggers, annual checkups"
+2371,4,3,5.0,5,4,5,"Mammograms, regular check-ups, self-exams; Colonoscopy, high-fiber diet, routine screening; Quit smoking, screening for early detection"
+2061,4,3,2.5,5,1,4,"Routine health screening and lifestyle advice; Comfort-focused care and emotional support; Hydration, sleep, limit screen time"
+2238,2,2,3.5,4,1,3,"Vaccination, hygiene, timely antibiotics; Use inhalers regularly, avoid triggers, annual checkups"
+2275,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2107,1,1,2.0,2,0,2,"Balanced diet, sleep, manage stress"
+2137,1,1,2.0,2,0,2,"Avoid spicy food, small meals, raise head while sleeping"
+2111,3,2,2.3333333333333335,3,0,2,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress"
+2199,3,2,3.6666666666666665,4,2,4,"Avoid smoking, pulmonary rehab, flu vaccination; Anti-inflammatory drugs, avoid trigger foods"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2304,3,1,4.0,4,3,4,"Vaccination, hygiene, timely antibiotics"
+2073,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2355,5,4,4.6,5,5,5,"Memory exercises, caregiver support; Low sodium diet, daily weight check, medications; Colonoscopy, high-fiber diet, routine screening; Limit protein/sodium, regular blood/urine tests"
+2023,1,1,5.0,5,1,4,Comfort-focused care and emotional support
+2131,5,3,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress"
+2035,4,2,4.0,5,3,5,Comfort-focused care and emotional support; Routine health screening and lifestyle advice
+2077,3,2,1.3333333333333333,2,0,2,"Routine health screening and lifestyle advice; Hydration, sleep, limit screen time"
+2188,4,4,4.5,5,4,5,"Regular insulin monitoring and diet control; Psychiatric care, medication adherence; Colonoscopy, high-fiber diet, routine screening; Cardiologist visit, ECG, physical activity"
+2004,1,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2040,1,1,2.0,2,0,2,"Hydration, sleep, limit screen time"
+2048,3,1,1.0,1,0,1,Routine health screening and lifestyle advice
+2179,1,1,3.0,3,0,2,"Use inhalers regularly, avoid triggers, annual checkups"
+2154,5,4,2.2,3,0,3,"Stretching, physiotherapy, avoid heavy lifting; Reduce salt, regular BP check, avoid stress; Balanced diet, sleep, manage stress; Avoid spicy food, small meals, raise head while sleeping"
+2249,2,1,4.0,4,2,4,"Vaccination, hygiene, timely antibiotics"
+2240,3,3,4.0,4,3,5,"Avoid smoking, pulmonary rehab, flu vaccination; Regular insulin monitoring and diet control; Limit protein/sodium, regular blood/urine tests"
+2156,2,2,2.5,3,0,2,"Reduce salt, regular BP check, avoid stress; Avoid spicy food, small meals, raise head while sleeping"
