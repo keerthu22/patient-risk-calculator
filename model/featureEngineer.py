@@ -1,6 +1,6 @@
+import joblib
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
-import joblib
 
 def featureEngineer(df):
     # # loading the preprocessed DS
@@ -153,19 +153,19 @@ def featureEngineer(df):
     claims_df = df
     profile_df = final_patient_profile
 
-    print("claims:", claims_df.head())
-    print("profile:",profile_df.head())
+    # print("claims:", claims_df.head())
+    # print("profile:",profile_df.head())
 
     claims_df = claims_df.drop_duplicates(subset=['ClaimID'])
 
     # Merge to bring RiskScore to each row
-    df = claims_df.merge(profile_df[['MemberID', 'NumClaims', 'UniqueDiseases', 'AvgCriticality', 'MaxCriticality', 'ChronicCount', 'RiskScore']], on='MemberID', how='inner')
+    df = claims_df.merge(profile_df[['MemberID', 'PreventiveCareAdvice', 'NumClaims', 'UniqueDiseases', 'AvgCriticality', 'MaxCriticality', 'ChronicCount', 'RiskScore']], on='MemberID', how='inner')
 
     df = df.drop_duplicates()
 
     df.reset_index(drop=True)
 
-    print("df:", df.head())
+    # print("df:", df.head())
 
     # Drop missing data
     df.dropna(subset=['Age', 'Gender',  'NumClaims', 'UniqueDiseases', 'AvgCriticality', 'MaxCriticality', 'ChronicCount', 'DiagnosisCode', 'ProcedureCode', 'RiskScore'], inplace=True)
@@ -184,7 +184,10 @@ def featureEngineer(df):
     le_proc = LabelEncoder()
     df['ProcedureCode'] = le_proc.fit_transform(df['ProcedureCode'])
 
-    print("Feature Engineering completed successfully!!!")
     joblib.dump(le_gender, 'output/le_gender.pkl')
+    joblib.dump(le_diag, 'output/le_diag.pkl')
+    joblib.dump(le_proc, 'output/le_proc.pkl')
+
+    print("Feature Engineering completed successfully!!!")
 
     return df
