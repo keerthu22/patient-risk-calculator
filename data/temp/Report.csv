@@ -1,0 +1,11 @@
+,ClaimID,MemberID,Age,Gender,DiagnosisCode,ProcedureCode,AmountBilled,DiseaseCriticality,PreventiveCareAdvice,DiseaseName
+0,CLM4000001,M2001,32,M,Z00.47,99385,2584.01,1,Routine health screening and lifestyle advice,Encounter for other general examination
+1,CLM4000002,M2002,46,M,K21.83,43239,6138.79,2,"Avoid spicy food, small meals, raise head while sleeping",Gastro-esophageal reflux disease
+2,CLM4000003,M2003,87,M,R53.40,99213,431.28,2,"Balanced diet, sleep, manage stress",Other malaise and fatigue
+3,CLM4000004,M2004,29,M,F32.60,90834,4622.39,3,"Therapy, medication, regular mental health checks","Major depressive disorder, single episode, unspecified"
+4,CLM4000005,M2005,21,M,E13.34,95251,2100.9,4,"Monitor glucose, exercise, low-carb diet",Other specified diabetes mellitus without complications
+5,CLM4000006,M2006,53,M,J44.78,94010,6328.53,4,"Avoid smoking, pulmonary rehab, flu vaccination",Other chronic obstructive pulmonary disease
+6,CLM4000007,M2007,61,F,J18.10,71046,2055.53,4,"Vaccination, hygiene, timely antibiotics","Pneumonia, unspecified organism"
+7,CLM4000008,M2008,61,M,G30.5,96132,3512.36,4,"Memory exercises, caregiver support",Alzheimer's disease
+8,CLM4000009,M2009,63,F,I25.83,99214,2491.01,5,"Cardiologist visit, ECG, physical activity",Coronary atherosclerosis due to lipid rich plaque
+9,CLM4000010,M2010,23,F,C50.46,99214,1254.71,5,"Mammograms, regular check-ups, self-exams","Malignant neoplasm of breast of unspecified site, male"

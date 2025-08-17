@@ -17,8 +17,8 @@ def preprocess(df):
     df = df.explode('DiagnosisCode')
     df = df.explode('ProcedureCode')
 
-    # # storing the preprocessed DS
-    # df.to_csv("data/preprocessed.csv", index=False)
+    # storing the preprocessed DS
+    df.to_csv("data/temp/preprocessed.csv", index=False)
 
     print("Preprocessing completed!")
 

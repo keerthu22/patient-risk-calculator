@@ -1,0 +1,24 @@
+ICD_Prefix,DiseaseName,Criticality,PreventiveCareAdvice
+E10,Type 1 Diabetes,4,Regular insulin monitoring and diet control
+E11,Type 2 Diabetes,4,"Weight management, avoid sugar, regular A1C tests"
+E13,Other Diabetes,4,"Monitor glucose, exercise, low-carb diet"
+I10,Hypertension,3,"Reduce salt, regular BP check, avoid stress"
+I25,Heart Disease,5,"Cardiologist visit, ECG, physical activity"
+I50,Heart Failure,5,"Low sodium diet, daily weight check, medications"
+J44,COPD,4,"Avoid smoking, pulmonary rehab, flu vaccination"
+J45,Asthma,3,"Use inhalers regularly, avoid triggers, annual checkups"
+J18,Pneumonia,4,"Vaccination, hygiene, timely antibiotics"
+N18,Kidney Disease,4,"Limit protein/sodium, regular blood/urine tests"
+C50,Breast Cancer,5,"Mammograms, regular check-ups, self-exams"
+C34,Lung Cancer,5,"Quit smoking, screening for early detection"
+C18,Colon Cancer,5,"Colonoscopy, high-fiber diet, routine screening"
+F32,Depression,3,"Therapy, medication, regular mental health checks"
+F20,Schizophrenia,4,"Psychiatric care, medication adherence"
+G30,Alzheimer's Disease,4,"Memory exercises, caregiver support"
+M54,Back Pain,2,"Stretching, physiotherapy, avoid heavy lifting"
+K21,Acid Reflux,2,"Avoid spicy food, small meals, raise head while sleeping"
+K50,Crohn's Disease,3,"Anti-inflammatory drugs, avoid trigger foods"
+R51,Headache,2,"Hydration, sleep, limit screen time"
+R53,Fatigue,2,"Balanced diet, sleep, manage stress"
+Z00,General Check-up,1,Routine health screening and lifestyle advice
+Z51,Palliative Care,5,Comfort-focused care and emotional support
